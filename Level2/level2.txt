@@ -1,0 +1,80 @@
+Nivel 2: Arreglos y Strings
+
+Máximo y mínimo de un arreglo
+Promedio de un arreglo
+Invertir un arreglo
+Buscar un elemento
+Palíndromo (el que ya empezaste)
+Contar vocales
+Invertir las palabras de una oración
+¿Son anagramas?
+Eliminar duplicados
+Rotar un arreglo k posiciones
+Primer carácter que no se repite
+Suma y transpuesta de matrices
+¿Hubo lotería?
+
+Arreglos
+
+Llenar e imprimir un arreglo
+Suma de elementos
+Promedio
+Máximo y mínimo
+Buscar un elemento
+Contar pares e impares
+Invertir un arreglo
+Copiar un arreglo en otro
+Eliminar duplicados
+Rotar k posiciones
+
+Strings básicos
+
+Longitud de un String
+Imprimir letra por letra
+Contar vocales
+Contar palabras
+Invertir un String
+Palíndromo
+Mayúsculas y minúsculas
+Reemplazar un carácter
+Contar cuántas veces aparece una letra
+Primer carácter que no se repite
+
+Métodos de String y StringBuilder
+
+substring para extraer partes
+indexOf para buscar texto
+split para separar palabras
+trim y limpiar espacios
+equals vs ==
+Invertir palabras de una oración
+Anagramas
+Capitalizar cada palabra
+Comprimir texto ("aaabb" → "a3b2")
+Construir un String grande con StringBuilder
+
+Matrices
+
+Llenar e imprimir una matriz
+Suma de todos los elementos
+Suma por filas y columnas
+Diagonal principal
+Transpuesta
+Suma de dos matrices
+Multiplicación de matrices
+¿Hubo lotería? (ya hecho ✅)
+Buscar un valor en la matriz
+Gato (tres en raya): detectar ganador
+
+ArrayList
+
+Crear, agregar e imprimir
+Eliminar un elemento
+Buscar con contains
+Ordenar con Collections.sort
+Sumar elementos
+Filtrar pares a otra lista
+Lista de compras con menú
+Quitar duplicados
+Unir dos listas
+Lista de nombres ordenada alfabéticamente

@@ -1,0 +1,68 @@
+Nivel 6 Árboles y grafos
+
+Nodo y árbol binario
+Recorridos inorden, preorden y postorden
+Recorrido por niveles
+Altura de un árbol
+Árbol binario de búsqueda insertar y buscar
+Árbol binario de búsqueda eliminar
+Validar si un árbol es de búsqueda
+Ancestro común más bajo
+Min-heap desde cero
+Heap sort
+Grafo con lista de adyacencia
+BFS y DFS
+Detectar ciclo en un grafo
+Dijkstra
+
+Árboles binarios
+
+Clase Nodo y árbol
+Recorrido preorden
+Inorden
+Postorden
+Por niveles
+Altura
+Contar nodos
+Contar hojas
+Árbol espejo
+¿Dos árboles son iguales?
+
+Árbol binario de búsqueda
+
+Insertar
+Buscar
+Mínimo y máximo
+Eliminar hoja
+Eliminar nodo con un hijo
+Eliminar nodo con dos hijos
+Validar si es de búsqueda
+k-ésimo menor
+Ancestro común más bajo
+Arreglo ordenado a árbol balanceado
+
+Heaps
+
+Min-heap con arreglo
+Insertar
+Extraer mínimo
+Max-heap
+Heapify
+Heap sort
+k elementos más grandes
+Unir k listas ordenadas
+Mediana en flujo de datos
+Tu propia cola de prioridad
+
+Grafos
+
+Matriz de adyacencia
+Lista de adyacencia
+BFS
+DFS
+Contar componentes conexas
+Detectar ciclo
+Camino más corto sin pesos (BFS)
+Ordenamiento topológico
+Dijkstra
+Contar islas en una matriz

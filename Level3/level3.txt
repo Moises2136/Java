@@ -1,0 +1,92 @@
+Nivel 3: POO
+
+Clase Persona con getters y setters
+CuentaBancaria con depósitos, retiros y validaciones
+Rectangulo y Circulo con área y perímetro
+Herencia: Animal → Perro, Gato
+Interfaz Figura con polimorfismo
+Clase abstracta Empleado con sueldo por tipo
+Excepción propia SaldoInsuficienteException
+Sistema de biblioteca: libros, usuarios y préstamos
+Inventario de tienda con ArrayList
+Juego de cartas: Carta, Baraja, Mano (barajar y repartir)
+equals, hashCode y Comparable
+Patrones Singleton y Factory
+
+Clases y objetos
+
+Clase Persona con atributos
+Clase Auto con métodos
+Clase Libro con toString
+Clase Rectangulo con área y perímetro
+Clase Circulo
+Clase Alumno con promedio
+Clase Reloj que avanza segundos
+Clase Punto con distancia entre puntos
+Clase Fraccion con suma y simplificar
+Clase Contador con incrementar y reiniciar
+
+Encapsulamiento y constructores
+
+Getters y setters en Persona
+Validar edad en el setter
+Varios constructores (sobrecarga)
+this en constructores
+CuentaBancaria con saldo privado
+Retiro que no deje saldo negativo
+Atributo static para contar objetos
+Método static utilitario
+Clase inmutable con final
+Producto con precio e inventario validados
+
+Herencia
+
+Animal → Perro, Gato
+Vehiculo → Auto, Moto
+super en constructores
+Sobrescribir métodos con @Override
+Empleado → Gerente, Programador
+Figura → Cuadrado, Triangulo
+CuentaBancaria → Ahorro, Credito
+Herencia de 3 niveles
+protected vs private
+toString heredado y sobrescrito
+
+Polimorfismo e interfaces
+
+Interfaz Figura con area()
+Arreglo de figuras distintas
+Interfaz Sonido para animales
+Clase que implementa dos interfaces
+Sobrecarga vs sobrescritura
+instanceof y casting
+Interfaz Pagable (empleados y facturas)
+Comparable para ordenar objetos
+Comparator para ordenar por varios criterios
+equals y hashCode
+
+Clases abstractas y excepciones
+
+Clase abstracta Empleado
+Método abstracto calcularSueldo
+Abstracta vs interfaz: mismo problema de dos formas
+try/catch con división entre cero
+try/catch con índice fuera de rango
+finally
+Validar entrada con NumberFormatException
+Excepción propia SaldoInsuficienteException
+throws en un método
+Varias excepciones en un mismo try
+
+Proyectos POO
+
+Biblioteca con préstamos
+Inventario de tienda
+Sistema de calificaciones
+Cajero automático
+Agenda de contactos
+Baraja: barajar y repartir
+Estacionamiento con cobro por tiempo
+Reservas de cine
+Lotería simple en consola
+Patrones Singleton y Factory

@@ -1,0 +1,54 @@
+Nivel 4: Recursión, búsqueda y ordenamiento
+
+Factorial recursivo
+Fibonacci recursivo y con memoización
+Potencia recursiva
+Suma de dígitos recursiva
+Palíndromo recursivo
+Búsqueda binaria (iterativa y recursiva)
+Bubble sort
+Selection sort
+Insertion sort
+Merge sort
+Quick sort
+Torres de Hanói
+Todas las permutaciones de un String
+
+Recursión
+
+Factorial
+Fibonacci
+Potencia
+Suma de dígitos
+Contar dígitos
+Invertir un String
+Palíndromo
+Máximo de un arreglo
+Torres de Hanói
+Permutaciones de un String
+
+Búsqueda
+
+Búsqueda lineal
+Búsqueda lineal con todas las posiciones
+Búsqueda binaria iterativa
+Búsqueda binaria recursiva
+Primera aparición con búsqueda binaria
+Última aparición con búsqueda binaria
+Raíz cuadrada entera con búsqueda binaria
+Buscar en matriz ordenada
+Elemento faltante en arreglo de 1 a n
+Pico en un arreglo
+
+Ordenamiento
+
+Bubble sort
+Bubble sort optimizado
+Selection sort
+Insertion sort
+Merge sort
+Quick sort
+Counting sort
+Ordenar Strings alfabéticamente
+Ordenar objetos con Comparable
+Comparar tiempos de todos los algoritmos

@@ -1,0 +1,591 @@
+Nivel 1: Fundamentos
+
+Imprimir (System.out.println)
+
+Imprime "Hola mundo"
+Imprime tu nombre, edad y carrera en líneas separadas
+Imprime todo lo anterior en una sola línea con print
+Imprime un texto con comillas dentro: "Java" es genial
+Imprime un salto de línea y una tabulación con \n y \t
+Guarda tu nombre en una variable e imprímelo con un saludo
+Imprime un número entero, uno decimal y un boolean
+Imprime un cuadrado de 4x4 con asteriscos
+Imprime un triángulo de asteriscos
+Imprime una tabla bonita con printf (nombre, edad, calificación)
+
+Suma
+
+Suma dos números fijos
+Suma dos números que escriba el usuario con Scanner
+Suma tres números
+Suma dos decimales
+Suma un int y un double y observa el tipo del resultado
+Suma usando +=
+Suma los números del 1 al 10 sin ciclo
+Calcula el total de una compra de 3 productos
+Suma horas y minutos (1h 50min + 2h 30min = 4h 20min)
+Concatena vs. suma: "5" + 3 contra 5 + 3; explica la diferencia
+
+Resta
+
+Resta dos números fijos
+Resta dos números del usuario
+Calcula el cambio de una compra
+Calcula tu edad a partir del año de nacimiento
+Resta usando -=
+Diferencia de temperatura entre dos días
+Resta que dé resultado negativo e imprímelo
+Valor absoluto de una resta con Math.abs
+Días que faltan para tu cumpleaños (con números fijos)
+Descuento: precio menos el 15%
+
+Multiplicación
+
+Multiplica dos números fijos
+Multiplica dos números del usuario
+Área de un rectángulo
+Doble y triple de un número
+Multiplica usando *=
+Cuadrado y cubo de un número
+Precio total: cantidad × precio unitario
+Convertir horas a minutos y segundos
+Sueldo semanal: horas × pago por hora
+Qué pasa al multiplicar dos int muy grandes (desbordamiento); arréglalo con long
+
+División y módulo
+
+Divide dos números fijos
+División entera vs. decimal: 7 / 2 contra 7.0 / 2
+Promedio de tres calificaciones
+Residuo con %
+Par o impar usando %
+Convertir segundos a horas, minutos y segundos
+Repartir una cuenta entre n personas
+Qué pasa al dividir entre cero con int y con double
+Separar los dígitos de un número de 3 cifras con / y %
+Convertir un double a int (casting) y ver qué se pierde
+
+Condicionales if/else
+
+Positivo, negativo o cero
+Mayor de edad o no
+Mayor de dos números
+Mayor de tres números
+Aprobado o reprobado según calificación
+Año bisiesto
+Calificación numérica a letra (A, B, C…)
+Triángulo equilátero, isósceles o escaleno
+Login simple: usuario y contraseña correctos
+Tarifa de cine según edad y día
+
+switch
+
+Número a día de la semana
+Número a mes del año
+Calculadora con switch de operador
+Vocal o consonante
+Estación del año según el mes
+Días que tiene un mes
+Menú de restaurante con precios
+Convertidor de unidades con menú
+Piedra, papel o tijera contra valores fijos
+Menú que se repite hasta elegir "Salir"
+
+for
+
+Imprime del 1 al 10
+Imprime del 10 al 1
+Números pares del 1 al 50
+Tabla de multiplicar de un número
+Suma del 1 al n
+Factorial con for
+Contar divisores de un número
+¿Es primo?
+Primeros n números de Fibonacci
+Pirámide de asteriscos centrada
+
+while y do-while
+
+Contador del 1 al 10 con while
+Pedir números hasta que el usuario escriba 0
+Sumar dígitos de un número
+Invertir un número (1234 → 4321)
+¿Es palíndromo numérico?
+Adivina el número (aleatorio con pistas)
+Validar que el usuario escriba un número en rango
+Menú con do-while
+Contar cuántos dígitos tiene un número
+Máximo común divisor (algoritmo de Euclides)
+
+extras:
+
+Hola mundo: imprime tu nombre y edad
+Calculadora de las 4 operaciones
+Par o impar
+Mayor de tres números
+Convertir °C a °F
+Año bisiesto
+Tabla de multiplicar de un número
+FizzBuzz
+Suma de 1 a n
+¿Es número primo?
+Invertir los dígitos de un número (1234 → 4321)
+Adivina el número con while y menú con switch
+
+Nivel 2: Arreglos y Strings
+
+Arreglos
+
+Llenar e imprimir un arreglo
+Suma de elementos
+Promedio
+Máximo y mínimo
+Buscar un elemento
+Contar pares e impares
+Invertir un arreglo
+Copiar un arreglo en otro
+Eliminar duplicados
+Rotar k posiciones
+
+Strings básicos
+
+Longitud de un String
+Imprimir letra por letra
+Contar vocales
+Contar palabras
+Invertir un String
+Palíndromo
+Mayúsculas y minúsculas
+Reemplazar un carácter
+Contar cuántas veces aparece una letra
+Primer carácter que no se repite
+
+Métodos de String y StringBuilder
+
+substring para extraer partes
+indexOf para buscar texto
+split para separar palabras
+trim y limpiar espacios
+equals vs ==
+Invertir palabras de una oración
+Anagramas
+Capitalizar cada palabra
+Comprimir texto ("aaabb" → "a3b2")
+Construir un String grande con StringBuilder
+
+Matrices
+
+Llenar e imprimir una matriz
+Suma de todos los elementos
+Suma por filas y columnas
+Diagonal principal
+Transpuesta
+Suma de dos matrices
+Multiplicación de matrices
+¿Hubo lotería? 
+Buscar un valor en la matriz
+Gato (tres en raya): detectar ganador
+
+ArrayList
+
+Crear, agregar e imprimir
+Eliminar un elemento
+Buscar con contains
+Ordenar con Collections.sort
+Sumar elementos
+Filtrar pares a otra lista
+Lista de compras con menú
+Quitar duplicados
+Unir dos listas
+Lista de nombres ordenada alfabéticamente
+
+Extras:
+
+Máximo y mínimo de un arreglo
+Promedio de un arreglo
+Invertir un arreglo
+Buscar un elemento
+Palíndromo (el que ya empezaste)
+Contar vocales
+Invertir las palabras de una oración
+¿Son anagramas?
+Eliminar duplicados
+Rotar un arreglo k posiciones
+Primer carácter que no se repite
+Suma y transpuesta de matrices
+¿Hubo lotería?
+
+Nivel 3: POO
+
+Clases y objetos
+
+Clase Persona con atributos
+Clase Auto con métodos
+Clase Libro con toString
+Clase Rectangulo con área y perímetro
+Clase Circulo
+Clase Alumno con promedio
+Clase Reloj que avanza segundos
+Clase Punto con distancia entre puntos
+Clase Fraccion con suma y simplificar
+Clase Contador con incrementar y reiniciar
+
+Encapsulamiento y constructores
+
+Getters y setters en Persona
+Validar edad en el setter
+Varios constructores (sobrecarga)
+this en constructores
+CuentaBancaria con saldo privado
+Retiro que no deje saldo negativo
+Atributo static para contar objetos
+Método static utilitario
+Clase inmutable con final
+Producto con precio e inventario validados
+
+Herencia
+
+Animal → Perro, Gato
+Vehiculo → Auto, Moto
+super en constructores
+Sobrescribir métodos con @Override
+Empleado → Gerente, Programador
+Figura → Cuadrado, Triangulo
+CuentaBancaria → Ahorro, Credito
+Herencia de 3 niveles
+protected vs private
+toString heredado y sobrescrito
+
+Polimorfismo e interfaces
+
+Interfaz Figura con area()
+Arreglo de figuras distintas
+Interfaz Sonido para animales
+Clase que implementa dos interfaces
+Sobrecarga vs sobrescritura
+instanceof y casting
+Interfaz Pagable (empleados y facturas)
+Comparable para ordenar objetos
+Comparator para ordenar por varios criterios
+equals y hashCode
+
+Clases abstractas y excepciones
+
+Clase abstracta Empleado
+Método abstracto calcularSueldo
+Abstracta vs interfaz: mismo problema de dos formas
+try/catch con división entre cero
+try/catch con índice fuera de rango
+finally
+Validar entrada con NumberFormatException
+Excepción propia SaldoInsuficienteException
+throws en un método
+Varias excepciones en un mismo try
+
+Proyectos POO
+
+Biblioteca con préstamos
+Inventario de tienda
+Sistema de calificaciones
+Cajero automático
+Agenda de contactos
+Baraja: barajar y repartir
+Estacionamiento con cobro por tiempo
+Reservas de cine
+Lotería simple en consola
+Patrones Singleton y Factory
+
+Extras:
+
+Clase Persona con getters y setters
+CuentaBancaria con depósitos, retiros y validaciones
+Rectangulo y Circulo con área y perímetro
+Herencia: Animal → Perro, Gato
+Interfaz Figura con polimorfismo
+Clase abstracta Empleado con sueldo por tipo
+Excepción propia SaldoInsuficienteException
+Sistema de biblioteca: libros, usuarios y préstamos
+Inventario de tienda con ArrayList
+Juego de cartas: Carta, Baraja, Mano (barajar y repartir)
+equals, hashCode y Comparable
+Patrones Singleton y Factory
+
+Nivel 4: Recursión, búsqueda y ordenamiento
+
+Recursión
+
+Factorial
+Fibonacci
+Potencia
+Suma de dígitos
+Contar dígitos
+Invertir un String
+Palíndromo
+Máximo de un arreglo
+Torres de Hanói
+Permutaciones de un String
+
+Búsqueda
+
+Búsqueda lineal
+Búsqueda lineal con todas las posiciones
+Búsqueda binaria iterativa
+Búsqueda binaria recursiva
+Primera aparición con búsqueda binaria
+Última aparición con búsqueda binaria
+Raíz cuadrada entera con búsqueda binaria
+Buscar en matriz ordenada
+Elemento faltante en arreglo de 1 a n
+Pico en un arreglo
+
+Ordenamiento
+
+Bubble sort
+Bubble sort optimizado
+Selection sort
+Insertion sort
+Merge sort
+Quick sort
+Counting sort
+Ordenar Strings alfabéticamente
+Ordenar objetos con Comparable
+Comparar tiempos de todos los algoritmos
+
+Extras:
+
+Factorial recursivo
+Fibonacci recursivo y con memoización
+Potencia recursiva
+Suma de dígitos recursiva
+Palíndromo recursivo
+Búsqueda binaria (iterativa y recursiva)
+Bubble sort
+Selection sort
+Insertion sort
+Merge sort
+Quick sort
+Torres de Hanói
+Todas las permutaciones de un String
+
+Nivel 5: Estructuras lineales
+
+Listas ligadas
+
+Clase Nodo
+Insertar al inicio y al final
+Imprimir la lista
+Buscar un elemento
+Eliminar un elemento
+Tamaño de la lista
+Invertir la lista
+Elemento de en medio
+Detectar ciclo
+Lista doblemente ligada
+
+Pilas
+
+Pila con arreglo
+Pila con lista ligada
+push, pop, peek
+Invertir un String con pila
+Paréntesis balanceados
+Decimal a binario
+Evaluar postfija
+Infija a postfija
+Deshacer/rehacer
+Pila que regresa el mínimo en O(1)
+
+Colas
+
+Cola con arreglo
+Cola circular
+Cola con lista ligada
+Simulación de fila en banco
+Cola usando dos pilas
+Cola de prioridad con PriorityQueue
+Deque (doble extremo)
+Invertir una cola
+Problema de Josephus
+Planificador de tareas round robin
+
+HashMap y HashSet
+
+Crear y recorrer un HashMap
+Frecuencia de palabras
+Frecuencia de letras
+Two Sum
+Anagramas con HashMap
+Quitar duplicados con HashSet
+Intersección de dos arreglos
+Primer elemento repetido
+Agrupar anagramas
+Tu propio HashMap sencillo
+
+Extras:
+
+Lista ligada simple desde cero
+Invertir una lista ligada
+Detectar ciclo en lista ligada
+Lista doblemente ligada
+Pila con arreglo
+Paréntesis balanceados
+Cola circular con arreglo
+Cola usando dos pilas
+Two Sum con HashMap
+Frecuencia de palabras en un texto
+Evaluar expresión postfija
+Tu propio HashMap sencillo
+LRU Cache
+
+Nivel 6 Árboles y grafos
+
+Árboles binarios
+
+Clase Nodo y árbol
+Recorrido preorden
+Inorden
+Postorden
+Por niveles
+Altura
+Contar nodos
+Contar hojas
+Árbol espejo
+¿Dos árboles son iguales?
+
+Árbol binario de búsqueda
+
+Insertar
+Buscar
+Mínimo y máximo
+Eliminar hoja
+Eliminar nodo con un hijo
+Eliminar nodo con dos hijos
+Validar si es de búsqueda
+k-ésimo menor
+Ancestro común más bajo
+Arreglo ordenado a árbol balanceado
+
+Heaps
+
+Min-heap con arreglo
+Insertar
+Extraer mínimo
+Max-heap
+Heapify
+Heap sort
+k elementos más grandes
+Unir k listas ordenadas
+Mediana en flujo de datos
+Tu propia cola de prioridad
+
+Grafos
+
+Matriz de adyacencia
+Lista de adyacencia
+BFS
+DFS
+Contar componentes conexas
+Detectar ciclo
+Camino más corto sin pesos (BFS)
+Ordenamiento topológico
+Dijkstra
+Contar islas en una matriz
+
+Extras:
+
+Nodo y árbol binario
+Recorridos inorden, preorden y postorden
+Recorrido por niveles
+Altura de un árbol
+Árbol binario de búsqueda insertar y buscar
+Árbol binario de búsqueda eliminar
+Validar si un árbol es de búsqueda
+Ancestro común más bajo
+Min-heap desde cero
+Heap sort
+Grafo con lista de adyacencia
+BFS y DFS
+Detectar ciclo en un grafo
+Dijkstra
+
+Nivel 7: Avanzado
+
+Programación dinámica
+
+Fibonacci con memoización
+Fibonacci tabulado
+Subir escaleras
+Cambio de monedas (mínimo)
+Cambio de monedas (formas)
+Mochila 0/1
+Subsecuencia común más larga
+Subsecuencia creciente más larga
+Distancia de edición
+Caminos en una cuadrícula
+
+Backtracking
+
+Subconjuntos de un conjunto
+Permutaciones
+Combinaciones
+Suma de subconjunto
+Laberinto
+N reinas
+Sudoku
+Palabra en una sopa de letras
+Coloreo de grafos
+Recorrido del caballo
+
+Estructuras avanzadas
+
+Trie: insertar
+Trie: buscar
+Trie: autocompletar
+Union-Find básico
+Union-Find con compresión de caminos
+Kruskal
+Prim
+Árbol de segmentos
+LRU Cache
+Bloom filter sencillo
+
+Árboles AVL
+
+Calcular factor de balance
+Rotación simple a la derecha
+Rotación simple a la izquierda
+Rotación doble izquierda-derecha
+Rotación doble derecha-izquierda
+Insertar con balanceo
+Eliminar con balanceo
+Validar si un árbol es AVL
+Imprimir el árbol con alturas
+Comparar AVL vs árbol sin balancear
+
+Árboles rojinegros
+
+Clase Nodo con color
+Validar las 5 propiedades
+Rotaciones
+Insertar sin balancear
+Caso 1 de inserción: tío rojo
+Casos 2 y 3: tío negro
+Inserción completa
+Eliminar: casos simples
+Eliminación completa
+Comparar rojinegro vs AVL
+
+Extras:
+
+Fibonacci con programación dinámica
+Subir escaleras (1 o 2 escalones)
+Cambio de monedas
+Mochila 0/1
+Subsecuencia común más larga
+N reinas con backtracking
+Resolver un Sudoku
+Trie para autocompletar
+Union-Find
+Árbol AVL con rotaciones
+Árbol rojinegro: inserción
+Árbol rojinegro: eliminación 

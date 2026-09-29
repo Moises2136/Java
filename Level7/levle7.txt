@@ -1,0 +1,79 @@
+Nivel 7: Avanzado
+
+Fibonacci con programación dinámica
+Subir escaleras (1 o 2 escalones)
+Cambio de monedas
+Mochila 0/1
+Subsecuencia común más larga
+N reinas con backtracking
+Resolver un Sudoku
+Trie para autocompletar
+Union-Find
+Árbol AVL con rotaciones
+Árbol rojinegro: inserción
+Árbol rojinegro: eliminación 🏆 (jefe final)
+
+Programación dinámica
+
+Fibonacci con memoización
+Fibonacci tabulado
+Subir escaleras
+Cambio de monedas (mínimo)
+Cambio de monedas (formas)
+Mochila 0/1
+Subsecuencia común más larga
+Subsecuencia creciente más larga
+Distancia de edición
+Caminos en una cuadrícula
+
+Backtracking
+
+Subconjuntos de un conjunto
+Permutaciones
+Combinaciones
+Suma de subconjunto
+Laberinto
+N reinas
+Sudoku
+Palabra en una sopa de letras
+Coloreo de grafos
+Recorrido del caballo
+
+Estructuras avanzadas
+
+Trie: insertar
+Trie: buscar
+Trie: autocompletar
+Union-Find básico
+Union-Find con compresión de caminos
+Kruskal
+Prim
+Árbol de segmentos
+LRU Cache
+Bloom filter sencillo
+
+Árboles AVL
+
+Calcular factor de balance
+Rotación simple a la derecha
+Rotación simple a la izquierda
+Rotación doble izquierda-derecha
+Rotación doble derecha-izquierda
+Insertar con balanceo
+Eliminar con balanceo
+Validar si un árbol es AVL
+Imprimir el árbol con alturas
+Comparar AVL vs árbol sin balancear
+
+Árboles rojinegros 🏆
+
+Clase Nodo con color
+Validar las 5 propiedades
+Rotaciones
+Insertar sin balancear
+Caso 1 de inserción: tío rojo
+Casos 2 y 3: tío negro
+Inserción completa
+Eliminar: casos simples
+Eliminación completa
+Comparar rojinegro vs AVL

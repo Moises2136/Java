@@ -1,0 +1,131 @@
+Nivel 1: Fundamentos
+
+Hola mundo: imprime tu nombre y edad
+Calculadora de las 4 operaciones
+Par o impar
+Mayor de tres números
+Convertir °C a °F
+Año bisiesto
+Tabla de multiplicar de un número
+FizzBuzz
+Suma de 1 a n
+¿Es número primo?
+Invertir los dígitos de un número (1234 → 4321)
+Adivina el número con while y menú con switch
+
+Imprimir (System.out.println)
+
+Imprime "Hola mundo"
+Imprime tu nombre, edad y carrera en líneas separadas
+Imprime todo lo anterior en una sola línea con print
+Imprime un texto con comillas dentro: "Java" es genial
+Imprime un salto de línea y una tabulación con \n y \t
+Guarda tu nombre en una variable e imprímelo con un saludo
+Imprime un número entero, uno decimal y un boolean
+Imprime un cuadrado de 4x4 con asteriscos
+Imprime un triángulo de asteriscos
+Imprime una tabla bonita con printf (nombre, edad, calificación)
+
+Suma
+
+Suma dos números fijos
+Suma dos números que escriba el usuario con Scanner
+Suma tres números
+Suma dos decimales
+Suma un int y un double y observa el tipo del resultado
+Suma usando +=
+Suma los números del 1 al 10 sin ciclo
+Calcula el total de una compra de 3 productos
+Suma horas y minutos (1h 50min + 2h 30min = 4h 20min)
+Concatena vs. suma: "5" + 3 contra 5 + 3; explica la diferencia
+
+Resta
+
+Resta dos números fijos
+Resta dos números del usuario
+Calcula el cambio de una compra
+Calcula tu edad a partir del año de nacimiento
+Resta usando -=
+Diferencia de temperatura entre dos días
+Resta que dé resultado negativo e imprímelo
+Valor absoluto de una resta con Math.abs
+Días que faltan para tu cumpleaños (con números fijos)
+Descuento: precio menos el 15%
+
+Multiplicación
+
+Multiplica dos números fijos
+Multiplica dos números del usuario
+Área de un rectángulo
+Doble y triple de un número
+Multiplica usando *=
+Cuadrado y cubo de un número
+Precio total: cantidad × precio unitario
+Convertir horas a minutos y segundos
+Sueldo semanal: horas × pago por hora
+Qué pasa al multiplicar dos int muy grandes (desbordamiento); arréglalo con long
+
+División y módulo
+
+Divide dos números fijos
+División entera vs. decimal: 7 / 2 contra 7.0 / 2
+Promedio de tres calificaciones
+Residuo con %
+Par o impar usando %
+Convertir segundos a horas, minutos y segundos
+Repartir una cuenta entre n personas
+Qué pasa al dividir entre cero con int y con double
+Separar los dígitos de un número de 3 cifras con / y %
+Convertir un double a int (casting) y ver qué se pierde
+
+Condicionales if/else
+
+Positivo, negativo o cero
+Mayor de edad o no
+Mayor de dos números
+Mayor de tres números
+Aprobado o reprobado según calificación
+Año bisiesto
+Calificación numérica a letra (A, B, C…)
+Triángulo equilátero, isósceles o escaleno
+Login simple: usuario y contraseña correctos
+Tarifa de cine según edad y día
+
+switch
+
+Número a día de la semana
+Número a mes del año
+Calculadora con switch de operador
+Vocal o consonante
+Estación del año según el mes
+Días que tiene un mes
+Menú de restaurante con precios
+Convertidor de unidades con menú
+Piedra, papel o tijera contra valores fijos
+Menú que se repite hasta elegir "Salir"
+
+for
+
+Imprime del 1 al 10
+Imprime del 10 al 1
+Números pares del 1 al 50
+Tabla de multiplicar de un número
+Suma del 1 al n
+Factorial con for
+Contar divisores de un número
+¿Es primo?
+Primeros n números de Fibonacci
+Pirámide de asteriscos centrada
+
+while y do-while
+
+Contador del 1 al 10 con while
+Pedir números hasta que el usuario escriba 0
+Sumar dígitos de un número
+Invertir un número (1234 → 4321)
+¿Es palíndromo numérico?
+Adivina el número (aleatorio con pistas)
+Validar que el usuario escriba un número en rango
+Menú con do-while
+Contar cuántos dígitos tiene un número
+Máximo común divisor (algoritmo de Euclides)

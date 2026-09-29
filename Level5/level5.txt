@@ -1,0 +1,67 @@
+Nivel 5: Estructuras lineales
+
+Lista ligada simple desde cero
+Invertir una lista ligada
+Detectar ciclo en lista ligada
+Lista doblemente ligada
+Pila con arreglo
+Paréntesis balanceados
+Cola circular con arreglo
+Cola usando dos pilas
+Two Sum con HashMap
+Frecuencia de palabras en un texto
+Evaluar expresión postfija
+Tu propio HashMap sencillo
+LRU Cache
+
+Listas ligadas
+
+Clase Nodo
+Insertar al inicio y al final
+Imprimir la lista
+Buscar un elemento
+Eliminar un elemento
+Tamaño de la lista
+Invertir la lista
+Elemento de en medio
+Detectar ciclo
+Lista doblemente ligada
+
+Pilas
+
+Pila con arreglo
+Pila con lista ligada
+push, pop, peek
+Invertir un String con pila
+Paréntesis balanceados
+Decimal a binario
+Evaluar postfija
+Infija a postfija
+Deshacer/rehacer
+Pila que regresa el mínimo en O(1)
+
+Colas
+
+Cola con arreglo
+Cola circular
+Cola con lista ligada
+Simulación de fila en banco
+Cola usando dos pilas
+Cola de prioridad con PriorityQueue
+Deque (doble extremo)
+Invertir una cola
+Problema de Josephus
+Planificador de tareas round robin
+
+HashMap y HashSet
+
+Crear y recorrer un HashMap
+Frecuencia de palabras
+Frecuencia de letras
+Two Sum
+Anagramas con HashMap
+Quitar duplicados con HashSet
+Intersección de dos arreglos
+Primer elemento repetido
+Agrupar anagramas
+Tu propio HashMap sencillo
