@@ -56,6 +56,8 @@ public class BasicosMain {
                 case 8:
                 case 9:
                 case 10:
+                case 11:
+                case 12:
                 case 0:
                     break;
                 default:
