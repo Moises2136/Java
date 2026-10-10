@@ -2,8 +2,6 @@ package Level1.Resta;
 
 import java.util.Scanner;
 
-import Level1.Resta.*;
-
 public class RestaMain {
 
     public static void main(String[] args) {
@@ -43,15 +41,35 @@ public class RestaMain {
 
             switch (opcionRes) {
                 case 1:
+                    E21.main(args);
+                    break;
                 case 2:
+                    E22.main(args);
+                    break;
                 case 3:
+                    E23.main(args);
+                    break;
                 case 4:
+                    E24.main(args);
+                    break;
                 case 5:
+                    E25.main(args);
+                    break;
                 case 6:
+                    E26.main(args);
+                    break;
                 case 7:
+                    E27.main(args);
+                    break;
                 case 8:
+                    E28.main(args);
+                    break;
                 case 9:
+                    E29.main(args);
+                    break;
                 case 10:
+                    E30.main(args);
+                    break;
                 case 0:
                     break;
                 default:

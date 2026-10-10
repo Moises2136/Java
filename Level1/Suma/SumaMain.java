@@ -2,8 +2,6 @@ package Level1.Suma;
 
 import java.util.Scanner;
 
-import Level1.Suma.*;
-
 public class SumaMain {
 
     public static void main(String[] args) {
@@ -43,15 +41,35 @@ public class SumaMain {
 
             switch (opcionSum) {
                 case 1:
+                    E11.main(args);
+                    break;
                 case 2:
+                    E12.main(args);
+                    break;
                 case 3:
+                    E13.main(args);
+                    break;
                 case 4:
+                    E14.main(args);
+                    break;
                 case 5:
+                    E15.main(args);
+                    break;
                 case 6:
+                    E16.main(args);
+                    break;
                 case 7:
+                    E17.main(args);
+                    break;
                 case 8:
+                    E18.main(args);
+                    break;
                 case 9:
+                    E19.main(args);
+                    break;
                 case 10:
+                    E20.main(args);
+                    break;
                 case 0:
                     break;
                 default:

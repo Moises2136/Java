@@ -1,6 +1,6 @@
 Nivel 1: Fundamentos
 
-Imprimir (System.out.println)
+Imprimir (System.out.println) Listo
 
 Imprime "Hola mundo" (Ejercicio 1)
 Imprime tu nombre, edad y carrera en líneas separadas (Ejercicio 2)
@@ -11,33 +11,33 @@ Guarda tu nombre en una variable e imprímelo con un saludo (Ejercicio 6)
 Imprime un número entero, uno decimal y un boolean (Ejercicio 7)
 Imprime un cuadrado de 4x4 con asteriscos (Ejercicio 8)
 Imprime un triángulo de asteriscos (Ejercicio 9)
-Imprime una tabla bonita con printf (nombre, edad, calificación)
+Imprime una tabla bonita con printf (nombre, edad, calificación) (Ejercicio 10)
 
-Suma
+Suma Listo
 
-Suma dos números fijos
-Suma dos números que escriba el usuario con Scanner
-Suma tres números
-Suma dos decimales
-Suma un int y un double y observa el tipo del resultado
-Suma usando +=
-Suma los números del 1 al 10 sin ciclo
-Calcula el total de una compra de 3 productos
-Suma horas y minutos (1h 50min + 2h 30min = 4h 20min)
-Concatena vs. suma: "5" + 3 contra 5 + 3; explica la diferencia
+Suma dos números fijos (Ejercicio 11)
+Suma dos números que escriba el usuario con Scanner (Ejercicio 12)
+Suma tres números (Ejercicio 13)
+Suma dos decimales (Ejercicio14)
+Suma un int y un double y observa el tipo del resultado (Ejercicio 15)
+Suma usando += (Ejercicio 16)
+Suma los números del 1 al 10 sin ciclo (Ejercicio 17)
+Calcula el total de una compra de 3 productos (Ejercicio 18)
+Suma horas y minutos (1h 50min + 2h 30min = 4h 20min) (Ejercicio 19)
+Concatena vs. suma: "5" + 3 contra 5 + 3; explica la diferencia (Ejercicio 20)
 
 Resta
 
-Resta dos números fijos
-Resta dos números del usuario
-Calcula el cambio de una compra
-Calcula tu edad a partir del año de nacimiento
-Resta usando -=
-Diferencia de temperatura entre dos días
-Resta que dé resultado negativo e imprímelo
-Valor absoluto de una resta con Math.abs
-Días que faltan para tu cumpleaños (con números fijos)
-Descuento: precio menos el 15%
+Resta dos números fijos (Ejercicio 21)
+Resta dos números del usuario (Ejercicio 22)
+Calcula el cambio de una compra (Ejercicio 23)
+Calcula tu edad a partir del año de nacimiento (Ejercicio 24)
+Resta usando -= (Ejercicio 25)
+Diferencia de temperatura entre dos días (Ejercicio 26)
+Resta que dé resultado negativo e imprímelo (Ejercicio 27)
+Valor absoluto de una resta con Math.abs (Ejercicio 28)
+Días que faltan para tu cumpleaños (con números fijos) (Ejercicio 29)
+Descuento: precio menos el 15% (Ejercicio 30)
 
 Multiplicación
 
