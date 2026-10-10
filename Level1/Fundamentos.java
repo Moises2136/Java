@@ -17,6 +17,17 @@ public class Fundamentos {
 
         Scanner entradaFScanner = new Scanner(System.in);
 
+        ImprimirMain imprimirMain = new ImprimirMain();
+        SumaMain sumaMain = new SumaMain();
+        RestaMain restaMain = new RestaMain();
+        MultiMain multiMain = new MultiMain();
+        Div_ModMain div_modMain = new Div_ModMain();
+        If_elseMain if_elseMain = new If_elseMain();
+        SwitchMain switchMain = new SwitchMain();
+        ForMain forMain = new ForMain();
+        While_doMain while_doMain = new While_doMain();
+        BasicosMain basicosMain = new BasicosMain();
+
         int opcionF = 0;
 
         do {
@@ -39,15 +50,35 @@ public class Fundamentos {
 
             switch (opcionF) {
                 case 1:
+                    imprimirMain.main(args);
+                    break;
                 case 2:
+                    sumaMain.main(args);
+                    break;
                 case 3:
+                    restaMain.main(args);
+                    break;
                 case 4:
+                    multiMain.main(args);
+                    break;
                 case 5:
+                    div_modMain.main(args);
+                    break;
                 case 6:
+                    if_elseMain.main(args);
+                    break;
                 case 7:
+                    switchMain.main(args);
+                    break;
                 case 8:
+                    forMain.main(args);
+                    break;
                 case 9:
+                    while_doMain.main(args);
+                    break;
                 case 10:
+                    basicosMain.main(args);
+                    break;
                 case 0:
                     break;
                 default:

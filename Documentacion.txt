@@ -2,15 +2,15 @@ Nivel 1: Fundamentos
 
 Imprimir (System.out.println)
 
-Imprime "Hola mundo"
-Imprime tu nombre, edad y carrera en líneas separadas
-Imprime todo lo anterior en una sola línea con print
-Imprime un texto con comillas dentro: "Java" es genial
-Imprime un salto de línea y una tabulación con \n y \t
-Guarda tu nombre en una variable e imprímelo con un saludo
-Imprime un número entero, uno decimal y un boolean
-Imprime un cuadrado de 4x4 con asteriscos
-Imprime un triángulo de asteriscos
+Imprime "Hola mundo" (Ejercicio 1)
+Imprime tu nombre, edad y carrera en líneas separadas (Ejercicio 2)
+Imprime todo lo anterior en una sola línea con print (Ejercicio 3)
+Imprime un texto con comillas dentro: "Java" es genial (Ejercicio 4)
+Imprime un salto de línea y una tabulación con \n y \t (Ejercicio 5)
+Guarda tu nombre en una variable e imprímelo con un saludo (Ejercicio 6)
+Imprime un número entero, uno decimal y un boolean (Ejercicio 7)
+Imprime un cuadrado de 4x4 con asteriscos (Ejercicio 8)
+Imprime un triángulo de asteriscos (Ejercicio 9)
 Imprime una tabla bonita con printf (nombre, edad, calificación)
 
 Suma

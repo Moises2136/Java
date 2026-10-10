@@ -43,15 +43,35 @@ public class ImprimirMain {
 
             switch (opcionIm) {
                 case 1:
+                    E1.main(args);
+                    break;
                 case 2:
+                    E2.main(args);
+                    break;
                 case 3:
+                    E3.main(args);
+                    break;
                 case 4:
+                    E4.main(args);
+                    break;
                 case 5:
+                    E5.main(args);
+                    break;
                 case 6:
+                    E6.main(args);
+                    break;
                 case 7:
+                    E7.main(args);
+                    break;
                 case 8:
+                    E8.main(args);
+                    break;
                 case 9:
+                    E9.main(args);
+                    break;
                 case 10:
+                    E10.main(args);
+                    break;
                 case 0:
                     break;
                 default:
