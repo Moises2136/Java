@@ -1,5 +1,12 @@
 package Level1.Imprimir;
 
+/**
+ * Clase imprime información con uso de saltos de linea
+ * 
+ * @author Moisés
+ * @version 1.0
+ */
+
 public class Ejercicio5 {
     public static void main(String[] args) {
 

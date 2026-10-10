@@ -1,5 +1,12 @@
 package Level1.Imprimir;
 
+/**
+ * Clase imprime datos del programador usando println
+ * 
+ * @author Moisés
+ * @version 1.0
+ */
+
 public class Ejercicio2 {
     public static void main(String[] args) {
 
