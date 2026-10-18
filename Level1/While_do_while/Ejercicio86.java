@@ -28,5 +28,7 @@ public class Ejercicio86 {
 
         }
 
+        System.out.println("Adivinaste el numero: " + secreto);
+
     }
 }

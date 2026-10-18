@@ -113,9 +113,9 @@ Invertir un número (1234 → 4321) (Ejercicio 84)
 ¿Es palíndromo numérico? (Ejercicio 85)
 Adivina el número (aleatorio con pistas) (Ejercicio 86)
 Validar que el usuario escriba un número en rango (Ejercicio 87)
-Menú con do-while
-Contar cuántos dígitos tiene un número
-Máximo común divisor (algoritmo de Euclides)
+Menú con do-while (Ejercicio 88)
+Contar cuántos dígitos tiene un número (Ejercicio 89)
+Máximo común divisor (algoritmo de Euclides) 
 
 extras:
 

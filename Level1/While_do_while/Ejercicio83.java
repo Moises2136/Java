@@ -14,14 +14,19 @@ public class Ejercicio83 {
         Scanner entrada = new Scanner(System.in);
 
         int valSum = 0;
-        int val;
+        int val = 0;
 
-        while (valSum != 100) {
-            System.out.println("Suma hasta llegar a 100 " + valSum);
-            val = entrada.nextInt();
+        System.out.println("Introduce un numero que se va a sumar sus digitos");
+        val = entrada.nextInt();
 
-            valSum += val;
+        int original = val;
+
+        while (val != 0) {
+            valSum += val % 10;
+            val = val / 10;
         }
+
+        System.out.println("Suma de los digitos de " + original + " es " + valSum);
 
     }
 }
