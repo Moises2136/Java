@@ -23,6 +23,7 @@ public class SumaMain {
 
         do {
 
+            System.out.println(" --------------------------- SUMA --------------------------- ");
             System.out.println("1. Suma dos números fijos" + "\n" +
                     "2. Suma dos números que escriba el usuario con Scanner" + "\n" +
                     "3. Suma tres números" + "\n" +

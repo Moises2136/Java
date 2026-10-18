@@ -24,7 +24,7 @@ public class If_elseMain {
         int opcionIfelse = 0;
 
         do {
-
+            System.out.println(" --------------------------- IF_ELSE --------------------------- ");
             System.out.println("1. Positivo, negativo o cero" + "\n" +
                     "2. Mayor de edad o no" + "\n" +
                     "3. Mayor de dos números" + "\n" +
@@ -43,15 +43,35 @@ public class If_elseMain {
 
             switch (opcionIfelse) {
                 case 1:
+                E51.main(args);
+                break;
                 case 2:
+                E52.main(args);
+                break;
                 case 3:
+                E53.main(args);
+                break;
                 case 4:
+                E54.main(args);
+                break;
                 case 5:
+                E55.main(args);
+                break;
                 case 6:
+                E56.main(args);
+                break;
                 case 7:
+                E57.main(args);
+                break;
                 case 8:
+                E58.main(args);
+                break;
                 case 9:
+                E59.main(args);
+                break;
                 case 10:
+                E60.main(args);
+                break;
                 case 0:
                     break;
                 default:

@@ -25,7 +25,7 @@ public class ImprimirMain {
         int opcionIm = 0;
 
         do {
-
+            System.out.println(" --------------------------- IMPRIMIR --------------------------- ");
             System.out.println("1. Imprime Hola mundo" + "\n"
                     + "2. Imprime tu nombre, edad y carrera en líneas separadas" + "\n"
                     + "3. Imprime todo lo anterior en una sola línea con print" + "\n"

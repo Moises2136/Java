@@ -32,6 +32,7 @@ public class Fundamentos {
 
         do {
 
+            System.out.println(" --------------------------- FUNDAMENTOS --------------------------- ");
             System.out.println("Bienvenido al programa de fundamentos de Java.");
             System.out.println("1. Imprimir" + "\n" +
                     "2. Suma" + "\n" +

@@ -25,6 +25,7 @@ public class Div_ModMain {
 
         do {
 
+            System.out.println(" --------------------------- DIVISION Y MODULO --------------------------- ");
             System.out.println("1. Divide dos números fijos" + "\n" +
                     "2. División entera vs. decimal: 7 / 2 contra 7.0 / 2" + "\n" +
                     "3. Promedio de tres calificaciones" + "\n" +
@@ -43,15 +44,35 @@ public class Div_ModMain {
 
             switch (opcionDivM) {
                 case 1:
+                E41.main(args);
+                break;
                 case 2:
+                E42.main(args);
+                break;
                 case 3:
+                E43.main(args);
+                break;
                 case 4:
+                E44.main(args);
+                break;
                 case 5:
+                E45.main(args);
+                break;
                 case 6:
+                E46.main(args);
+                break;
                 case 7:
+                E47.main(args);
+                break;
                 case 8:
+                E48.main(args);
+                break;
                 case 9:
+                E49.main(args);
+                break;
                 case 10:
+                E50.main(args);
+                break;
                 case 0:
                     break;
                 default:

@@ -43,15 +43,35 @@ public class SwitchMain {
 
             switch (opcionSw) {
                 case 1:
+                    E61.main(args);
+                    break;
                 case 2:
+                    E62.main(args);
+                    break;
                 case 3:
+                    E63.main(args);
+                    break;
                 case 4:
+                    E64.main(args);
+                    break;
                 case 5:
+                    E65.main(args);
+                    break;
                 case 6:
+                    E66.main(args);
+                    break;
                 case 7:
+                    E67.main(args);
+                    break;
                 case 8:
+                    E68.main(args);
+                    break;
                 case 9:
+                    E69.main(args);
+                    break;
                 case 10:
+                    E70.main(args);
+                    break;
                 case 0:
                     break;
                 default:

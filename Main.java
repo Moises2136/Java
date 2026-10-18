@@ -18,7 +18,7 @@ public class Main {
         int opcion;
 
         do {
-
+            System.out.println(" --------------------------- MENU --------------------------- ");
             System.out.println("Bienvenido al programa de Java");
             System.out.println("Seleccione una opción del menú:");
             System.out.println("1. Nivel 1 Fundamentos" + "\n2. Nivel 2 Arrays y Strings" + "\n3. Nivel 3 POO"

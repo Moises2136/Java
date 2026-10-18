@@ -25,6 +25,7 @@ public class MultiMain {
 
         do {
 
+            System.out.println(" --------------------------- MULTIPLICACION --------------------------- ");
             System.out.println("1. Multiplica dos números fijos" + "\n" +
                     "2. Multiplica dos números del usuario" + "\n" +
                     "3. Área de un rectángulo" + "\n" +
@@ -43,15 +44,35 @@ public class MultiMain {
 
             switch (opcionMulti) {
                 case 1:
+                    E31.main(args);
+                    break;
                 case 2:
+                    E32.main(args);
+                    break;
                 case 3:
+                    E33.main(args);
+                    break;
                 case 4:
+                    E34.main(args);
+                    break;
                 case 5:
+                    E35.main(args);
+                    break;
                 case 6:
+                    E36.main(args);
+                    break;
                 case 7:
+                    E37.main(args);
+                    break;
                 case 8:
+                    E38.main(args);
+                    break;
                 case 9:
+                    E39.main(args);
+                    break;
                 case 10:
+                    E40.main(args);
+                    break;
                 case 0:
                     break;
                 default:

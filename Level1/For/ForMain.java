@@ -43,15 +43,35 @@ public class ForMain {
 
             switch (opcionFor) {
                 case 1:
+                    E71.main(args);
+                    break;
                 case 2:
+                    E72.main(args);
+                    break;
                 case 3:
+                    E73.main(args);
+                    break;
                 case 4:
+                    E74.main(args);
+                    break;
                 case 5:
+                    E75.main(args);
+                    break;
                 case 6:
+                    E76.main(args);
+                    break;
                 case 7:
+                    E77.main(args);
+                    break;
                 case 8:
+                    E78.main(args);
+                    break;
                 case 9:
+                    E79.main(args);
+                    break;
                 case 10:
+                    E80.main(args);
+                    break;
                 case 0:
                     break;
                 default:

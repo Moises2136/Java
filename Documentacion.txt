@@ -41,78 +41,78 @@ Descuento: precio menos el 15% (Ejercicio 30)
 
 Multiplicación
 
-Multiplica dos números fijos
-Multiplica dos números del usuario
-Área de un rectángulo
-Doble y triple de un número
-Multiplica usando *=
-Cuadrado y cubo de un número
-Precio total: cantidad × precio unitario
-Convertir horas a minutos y segundos
-Sueldo semanal: horas × pago por hora
-Qué pasa al multiplicar dos int muy grandes (desbordamiento); arréglalo con long
+Multiplica dos números fijos (Ejercicio 31)
+Multiplica dos números del usuario (Ejercicio 32)
+Área de un rectángulo (Ejercicio 33)
+Doble y triple de un número (Ejercicio 34)
+Multiplica usando *= (Ejercicio 35)
+Cuadrado y cubo de un número (Ejercicio 36)
+Precio total: cantidad × precio unitario (Ejercicio 37)
+Convertir horas a minutos y segundos (Ejercicio 38)
+Sueldo semanal: horas × pago por hora (Ejercicio 39)
+Qué pasa al multiplicar dos int muy grandes (desbordamiento); arréglalo con long (Ejercicio 40)
 
 División y módulo
 
-Divide dos números fijos
-División entera vs. decimal: 7 / 2 contra 7.0 / 2
-Promedio de tres calificaciones
-Residuo con %
-Par o impar usando %
-Convertir segundos a horas, minutos y segundos
-Repartir una cuenta entre n personas
-Qué pasa al dividir entre cero con int y con double
-Separar los dígitos de un número de 3 cifras con / y %
-Convertir un double a int (casting) y ver qué se pierde
+Divide dos números fijos (Ejercicio 41)
+División entera vs. decimal: 7 / 2 contra 7.0 / 2 (Ejercicio 42)
+Promedio de tres calificaciones (Ejercicio43)
+Residuo con %  (Ejercicio 44)
+Par o impar usando % (Ejercicio 45)
+Convertir segundos a horas, minutos y segundos (Ejercicio 46)
+Repartir una cuenta entre n personas (Ejercicio 47)
+Qué pasa al dividir entre cero con int y con double (Ejercicio 48)
+Separar los dígitos de un número de 3 cifras con / y % (Ejercicio 49)
+Convertir un double a int (casting) y ver qué se pierde (Ejercicio 50)
 
 Condicionales if/else
 
-Positivo, negativo o cero
-Mayor de edad o no
-Mayor de dos números
-Mayor de tres números
-Aprobado o reprobado según calificación
-Año bisiesto
-Calificación numérica a letra (A, B, C…)
-Triángulo equilátero, isósceles o escaleno
-Login simple: usuario y contraseña correctos
-Tarifa de cine según edad y día
+Positivo, negativo o cero (Ejercicio 51)
+Mayor de edad o no (Ejercicio 52)
+Mayor de dos números (Ejercicio 53)
+Mayor de tres números (Ejercicio 54)
+Aprobado o reprobado según calificación (Ejercicio 55)
+Año bisiesto (Ejercicio 56)
+Calificación numérica a letra (A, B, C…) (Ejercicio 57)
+Triángulo equilátero, isósceles o escaleno (Ejercicio 58)
+Login simple: usuario y contraseña correctos (Ejercicio 59)
+Tarifa de cine según edad y día (Ejercicio 60)
 
 switch
 
-Número a día de la semana
-Número a mes del año
-Calculadora con switch de operador
-Vocal o consonante
-Estación del año según el mes
-Días que tiene un mes
-Menú de restaurante con precios
-Convertidor de unidades con menú
-Piedra, papel o tijera contra valores fijos
-Menú que se repite hasta elegir "Salir"
+Número a día de la semana (Ejercicio 61)
+Número a mes del año (Ejercicio 62)
+Calculadora con switch de operador (Ejercicio 63)
+Vocal o consonante (Ejercicio 64)
+Estación del año según el mes (Ejercicio 65)
+Días que tiene un mes (Ejercicio 66)
+Menú de restaurante con precios (Ejercicio 67)
+Convertidor de unidades con menú (Ejercicio 68)
+Piedra, papel o tijera contra valores fijos (Ejercicio 69)
+Menú que se repite hasta elegir "Salir" (Ejercicio 70)
 
 for
 
-Imprime del 1 al 10
-Imprime del 10 al 1
-Números pares del 1 al 50
-Tabla de multiplicar de un número
-Suma del 1 al n
-Factorial con for
-Contar divisores de un número
-¿Es primo?
-Primeros n números de Fibonacci
-Pirámide de asteriscos centrada
+Imprime del 1 al 10 (Ejercicio 71)
+Imprime del 10 al 1 (Ejercicio 72)
+Números pares del 1 al 50 (Ejercicio 73)
+Tabla de multiplicar de un número (Ejercicio 74)
+Suma del 1 al n (Ejercicio 75)
+Factorial con for (Ejercicio 76)
+Contar divisores de un número (Ejercicio 77)
+¿Es primo? (Ejercicio 78)
+Primeros n números de Fibonacci (Ejercicio 79)
+Pirámide de asteriscos centrada (Ejercicio 80)
 
 while y do-while
 
-Contador del 1 al 10 con while
-Pedir números hasta que el usuario escriba 0
-Sumar dígitos de un número
-Invertir un número (1234 → 4321)
-¿Es palíndromo numérico?
-Adivina el número (aleatorio con pistas)
-Validar que el usuario escriba un número en rango
+Contador del 1 al 10 con while (Ejercicio 81)
+Pedir números hasta que el usuario escriba 0 (Ejercicio 82)
+Sumar dígitos de un número (Ejercicio 83)
+Invertir un número (1234 → 4321) (Ejercicio 84)
+¿Es palíndromo numérico? (Ejercicio 85)
+Adivina el número (aleatorio con pistas) (Ejercicio 86)
+Validar que el usuario escriba un número en rango (Ejercicio 87)
 Menú con do-while
 Contar cuántos dígitos tiene un número
 Máximo común divisor (algoritmo de Euclides)

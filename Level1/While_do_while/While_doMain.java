@@ -43,15 +43,35 @@ public class While_doMain {
 
             switch (opcionWd) {
                 case 1:
+                    E81.main(args);
+                    break;
                 case 2:
+                    E82.main(args);
+                    break;
                 case 3:
+                    E83.main(args);
+                    break;
                 case 4:
+                    E84.main(args);
+                    break;
                 case 5:
+                    E85.main(args);
+                    break;
                 case 6:
+                    E86.main(args);
+                    break;
                 case 7:
+                    E87.main(args);
+                    break;
                 case 8:
+                    E88.main(args);
+                    break;
                 case 9:
+                    E89.main(args);
+                    break;
                 case 10:
+                    E90.main(args);
+                    break;
                 case 0:
                     break;
                 default:

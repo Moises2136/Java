@@ -22,7 +22,7 @@ public class RestaMain {
         int opcionRes = 0;
 
         do {
-
+            System.out.println(" --------------------------- RESTA --------------------------- ");
             System.out.println("1. Resta dos números fijos" + "\n" +
                     "2. Resta dos números del usuario" + "\n" +
                     "3. Calcula el cambio de una compra" + "\n" +
