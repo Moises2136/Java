@@ -26,7 +26,7 @@ Calcula el total de una compra de 3 productos (Ejercicio 18)
 Suma horas y minutos (1h 50min + 2h 30min = 4h 20min) (Ejercicio 19)
 Concatena vs. suma: "5" + 3 contra 5 + 3; explica la diferencia (Ejercicio 20)
 
-Resta
+Resta Listo
 
 Resta dos números fijos (Ejercicio 21)
 Resta dos números del usuario (Ejercicio 22)
@@ -39,7 +39,7 @@ Valor absoluto de una resta con Math.abs (Ejercicio 28)
 Días que faltan para tu cumpleaños (con números fijos) (Ejercicio 29)
 Descuento: precio menos el 15% (Ejercicio 30)
 
-Multiplicación
+Multiplicación Listo
 
 Multiplica dos números fijos (Ejercicio 31)
 Multiplica dos números del usuario (Ejercicio 32)
@@ -52,7 +52,7 @@ Convertir horas a minutos y segundos (Ejercicio 38)
 Sueldo semanal: horas × pago por hora (Ejercicio 39)
 Qué pasa al multiplicar dos int muy grandes (desbordamiento); arréglalo con long (Ejercicio 40)
 
-División y módulo
+División y módulo Listo
 
 Divide dos números fijos (Ejercicio 41)
 División entera vs. decimal: 7 / 2 contra 7.0 / 2 (Ejercicio 42)
@@ -65,7 +65,7 @@ Qué pasa al dividir entre cero con int y con double (Ejercicio 48)
 Separar los dígitos de un número de 3 cifras con / y % (Ejercicio 49)
 Convertir un double a int (casting) y ver qué se pierde (Ejercicio 50)
 
-Condicionales if/else
+Condicionales if/else Listo 
 
 Positivo, negativo o cero (Ejercicio 51)
 Mayor de edad o no (Ejercicio 52)
@@ -78,7 +78,7 @@ Triángulo equilátero, isósceles o escaleno (Ejercicio 58)
 Login simple: usuario y contraseña correctos (Ejercicio 59)
 Tarifa de cine según edad y día (Ejercicio 60)
 
-switch
+switch Listo
 
 Número a día de la semana (Ejercicio 61)
 Número a mes del año (Ejercicio 62)
@@ -91,7 +91,7 @@ Convertidor de unidades con menú (Ejercicio 68)
 Piedra, papel o tijera contra valores fijos (Ejercicio 69)
 Menú que se repite hasta elegir "Salir" (Ejercicio 70)
 
-for
+for Listo
 
 Imprime del 1 al 10 (Ejercicio 71)
 Imprime del 10 al 1 (Ejercicio 72)
@@ -104,7 +104,7 @@ Contar divisores de un número (Ejercicio 77)
 Primeros n números de Fibonacci (Ejercicio 79)
 Pirámide de asteriscos centrada (Ejercicio 80)
 
-while y do-while
+while y do-while Listo
 
 Contador del 1 al 10 con while (Ejercicio 81)
 Pedir números hasta que el usuario escriba 0 (Ejercicio 82)
@@ -115,22 +115,22 @@ Adivina el número (aleatorio con pistas) (Ejercicio 86)
 Validar que el usuario escriba un número en rango (Ejercicio 87)
 Menú con do-while (Ejercicio 88)
 Contar cuántos dígitos tiene un número (Ejercicio 89)
-Máximo común divisor (algoritmo de Euclides) 
+Máximo común divisor (algoritmo de Euclides) (Ejercicio 90)
 
-extras:
+extras: Listo
 
-Hola mundo: imprime tu nombre y edad
-Calculadora de las 4 operaciones
-Par o impar
-Mayor de tres números
-Convertir °C a °F
-Año bisiesto
-Tabla de multiplicar de un número
-FizzBuzz
-Suma de 1 a n
-¿Es número primo?
-Invertir los dígitos de un número (1234 → 4321)
-Adivina el número con while y menú con switch
+Hola mundo: imprime tu nombre y edad (Ejercicio 91)
+Calculadora de las 4 operaciones (Ejercicio 92)
+Par o impar (Ejercicio 93)
+Mayor de tres números (Ejercicio 94)
+Convertir °C a °F (Ejercicio 95)
+Año bisiesto (Ejercicio 96)
+Tabla de multiplicar de un número (Ejercicio 97)
+FizzBuzz (Ejercicio 98)
+Suma de 1 a n (Ejercicio 99)
+¿Es número primo?  (Ejercicio 100)
+Invertir los dígitos de un número (1234 → 4321) (Ejercicio 101)
+Adivina el número con while y menú con switch (Ejercicio 102)
 
 Nivel 2: Arreglos y Strings
 

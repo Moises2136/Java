@@ -47,17 +47,41 @@ public class BasicosMain {
 
             switch (opcionBas1) {
                 case 1:
+                    E91.main(args);
+                    break;
                 case 2:
+                    E92.main(args);
+                    break;
                 case 3:
+                    E93.main(args);
+                    break;
                 case 4:
+                    E94.main(args);
+                    break;
                 case 5:
+                    E95.main(args);
+                    break;
                 case 6:
+                    E96.main(args);
+                    break;
                 case 7:
+                    E97.main(args);
+                    break;
                 case 8:
+                    E98.main(args);
+                    break;
                 case 9:
+                    E99.main(args);
+                    break;
                 case 10:
+                    E100.main(args);
+                    break;
                 case 11:
+                    E101.main(args);
+                    break;
                 case 12:
+                    E102.main(args);
+                    break;
                 case 0:
                     break;
                 default:

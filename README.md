@@ -6,8 +6,8 @@ Repositorio donde practico Java desde cero, escribiendo el código a mano, de un
 
 | Nivel | Tema | Estado |
 |---|---|---|
-| 1 | Fundamentos (imprimir, operaciones, if/else, switch, for, while) | 🟡 En progreso |
-| 2 | Arreglos, Strings, matrices y ArrayList | ⬜ Pendiente |
+| 1 | Fundamentos (imprimir, operaciones, if/else, switch, for, while) | ✅ Listo |
+| 2 | Arreglos, Strings, matrices y ArrayList | 🟡 En progreso |
 | 3 | Programación orientada a objetos | ⬜ Pendiente |
 | 4 | Recursión, búsqueda y ordenamiento | ⬜ Pendiente |
 | 5 | Listas ligadas, pilas, colas, HashMap | ⬜ Pendiente |
